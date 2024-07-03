@@ -1,0 +1,122 @@
+hr {
+  color: black;
+  border: 1px solid black;
+}
+
+span {
+  color: red;
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  line-height: 14px;
+  padding: 5px;
+}
+
+.span1 {
+  color: blue;
+}
+
+#span2 {
+  color: green;
+}
+
+.span11,
+.span12,
+.span13 {
+  color: orange;
+}
+
+span.span3 {
+  color: gray;
+}
+
+span .span4 {
+  color: aquamarine;
+}
+
+a {
+  color: blue;
+  text-decoration: blue underline;
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  line-height: 21px;
+  padding: 5px;
+}
+
+a.lesson {
+  padding: 5px;
+}
+
+li {
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  line-height: 14px;
+  padding: 5px;
+}
+
+h3 {
+  font-size: 15px;
+  font-family: 'Montserrat';
+  font-weight: 600;
+  line-height: 20px;
+  padding: 10px;
+}
+
+h1 {
+  font-size: 36px;
+  font-family: 'Montserrat';
+  font-weight: 700;
+  line-height: 45px;
+  padding: 10px;
+}
+
+p {
+  font-size: 14px;
+  font-family: 'Montserrat';
+  font-weight: 500;
+  line-height: 14px;
+  padding: 5px;
+}
+
+.frame {
+  background-color: #2f273f;
+  border: 1px solid #615E6A;
+  border-radius: 10px 10px 10px 10px;
+  padding: 5px;
+  font-family: 'Inter', sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  word-spacing: pre-wrap;
+}
+
+.central-text {
+  color: #555165;
+  text-align: center;
+}
+
+.pink-text {
+  color: #FF659C;
+  word-spacing: pre-wrap;
+}
+
+.white-text {
+  color: white;
+  word-spacing: pre-wrap;
+}
+
+.green-text {
+  color: #73DFA5;
+  word-spacing: pre-wrap;
+}
+
+.blue-text {
+  color: #1AC8FF;
+  word-spacing: pre-wrap;
+}
+
+.yellow-text {
+  color: #DFD473;
+  word-spacing: pre-wrap;
+}
